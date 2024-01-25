@@ -2,8 +2,9 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <h1 className="box-1">Animation</h1>
+    <div className="main">
+      <div className="box-1"></div>
+      <h1>Alhamdullilah!</h1>
     </div>
   );
 }
